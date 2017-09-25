@@ -1,0 +1,11 @@
+[MYSQL]
+IP=127.0.0.1
+UserName=root
+PassWord=123456
+DBName=wechat
+
+[APP]
+corpId=wweeec98dc37620094
+secrect=cmXX80AaEsTglLFtnQuA1RDifvUWboxjU9Q4CUGgTpY
+agentid=1000002
+interval=30
